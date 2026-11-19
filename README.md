@@ -3,7 +3,10 @@ Portfolio of projects made during Fall 2026 semester of Programming for digital 
 
 ## Projects
 ### Project 1
-- Visual Novel
+<iframe src="https://editor.p5js.org/alissa.barendse/full/SkyAE8bjN" width="400" 
+  height="800" 
+  frameborder="600" 
+  scrolling="no"></iframe>
 
 ### Project 2 
 - Interactive Experience
