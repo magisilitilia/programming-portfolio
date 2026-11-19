@@ -1,0 +1,26 @@
+---
+---
+
+@import 'jekyll-theme-architect';
+
+/* Main content now uses the full width (no right sidebar) */
+#main-content {
+  float: none;
+  width: 100%;
+}
+
+/* Keep embeds like the p5.js iframe from overflowing on small screens */
+#main-content iframe {
+  max-width: 100%;
+}
+
+/* Small, quiet footer for the page details */
+#site-footer {
+  clear: both;
+  margin-top: 40px;
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+  font-size: 12px;
+  color: #888;
+  text-align: center;
+}
