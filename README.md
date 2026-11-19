@@ -1,5 +1,5 @@
-# programming-portfolio
-an example portfolio
+# Programming Portfolio
+Portfolio of projects made during Fall 2026 semester of Programming for digital Media
 
 ## Projects
 ### Project 1
